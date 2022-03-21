@@ -1,0 +1,60 @@
+﻿<AquaPark>
+	<employees>
+		<employee ID="1">
+			<name>Komarov Dmitriy Andreevich</name>>
+			<age>30</age>
+		</employee>
+		<employee ID="2">
+			<name>Ponomarev Artem Alexeevich</name>>
+			<age>24</age>
+		</employee>
+		<employee ID="3">
+			<name>Semenov Pavel Timurovich</name>>
+			<age>28</age>
+		</employee>
+		<employee ID="4">
+			<name>Kravchuk Irina Nikolaevna</name>>
+			<age>22</age>
+		</employee>
+		<employee ID="5">
+			<name>Morozova Alina Andreevna</name>>
+			<age>26</age>
+		</employee>
+	</employees>
+	<clients>
+		<client ID="1">
+			<name>Telegova Ksenia Victorovna</name>>
+			<age>18</age>
+		</client>
+		<client ID="2">
+			<name>Krutova Kristina Valentinovna</name>>
+			<age>20</age>
+		</client>
+		<client ID="3">
+			<name>Semenova Alla Olegovma</name>>
+			<age>21</age>
+		</client>
+		<client ID="4">
+			<name>Kravchenko Maria Petrovna</name>>
+			<age>22</age>
+		</client>
+		<client ID="5">
+			<name>Maltseva Anastasia Fedorovna</name>>
+			<age>19</age>
+		</client>
+	</clients>
+	<comments>
+		<comment ID="1">
+			<feedback>Все отлично, посетим снова</feedback>>
+			<count>50</count>
+		</comment>
+		<comment ID="2">
+			<feedback>Есть небольшие недостатки, но проведем здесь время еще раз</feedback>>
+			<count>18</count>
+		</comment>
+		<comment ID="3">
+			<feedback>Много недостатков, не рекомендуем это место</feedback>>
+			<count>4</count>
+	    </comment>
+	</comments>
+</AquaPark>
